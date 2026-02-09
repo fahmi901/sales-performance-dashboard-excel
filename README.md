@@ -1,5 +1,8 @@
 # Sales Performance Dashboard (Excel)
 
+<img width="796" height="416" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/a20183f8-875b-4267-9304-1c384538d1ab" />
+
+
 ## 📊 Project Overview
 This project demonstrates how to build an interactive sales performance dashboard using Microsoft Excel.
 
